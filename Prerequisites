@@ -1,0 +1,7 @@
+Tool	                    Minimum version	
+
+minikube	                1.33+	
+
+kubectl	                  1.29+	
+
+git	                      any	
